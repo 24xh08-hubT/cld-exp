@@ -1,0 +1,31 @@
+PROCEDURE
+
+1. Open VMware Workstation.
+2. Start the virtual machine.
+3. Wait for Windows OS to load.
+4. Open web browser in virtual machine.
+5. Search for Turbo C++ download.
+6. Download Turbo C++ software.
+7. Go to Downloads folder.
+8. Right click the zip file.
+9. Click “Extract All”.
+10. Open extracted folder.
+11. Double click setup.exe file.
+12. Click “Next” in installation wizard.
+13. Accept terms and conditions.
+14. Click “Next”.
+15. Click “Install”.
+16. Wait for installation to complete.
+17. Click “Finish”.
+18. Open Turbo C++.
+19. Press Alt + F to open File menu.
+20. Click “New”.
+21. Type the C program.
+22. Press F2 to save the program.
+23. Enter file name as hello.c.
+24. Press Enter to save.
+25. Press Alt + F9 to compile the program.
+26. Check for errors.
+27. Press Ctrl + F9 to run the program.
+28. Press Alt + F5 to view output.
+29. Output screen displays result.

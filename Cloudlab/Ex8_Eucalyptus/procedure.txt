@@ -1,0 +1,30 @@
+PROCEDURE
+
+1. Download Eucalyptus faststart software.
+2. Open VMware Workstation.
+3. Create a new virtual machine.
+4. Select ISO image of Eucalyptus.
+5. Start the virtual machine.
+6. Select “Install CentOS with Eucalyptus Cloud-in-a-box”.
+7. Choose language and keyboard settings.
+8. Configure network settings.
+9. Enter IP address.
+10. Enter subnet mask.
+11. Enter gateway address.
+12. Enter DNS server details.
+13. Select timezone.
+14. Set root password.
+15. Configure cloud settings.
+16. Enter public IP range.
+17. Configure storage options.
+18. Select disk partition.
+19. Start installation.
+20. Wait for installation to complete.
+21. Restart the system.
+22. Complete initial setup.
+23. Open Eucalyptus console.
+24. Create security group.
+25. Open required ports.
+26. Create key pair.
+27. Launch instance.
+28. Note instance IP address.

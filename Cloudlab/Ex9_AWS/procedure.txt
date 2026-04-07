@@ -1,0 +1,23 @@
+PROCEDURE
+
+1. Open web browser.
+2. Go to AWS signup page.
+3. Enter email address.
+4. Enter AWS account name.
+5. Click “Verify Email Address”.
+6. Enter verification code.
+7. Click “Verify”.
+8. Enter password.
+9. Confirm password.
+10. Click “Continue”.
+11. Select account type as Personal.
+12. Enter personal details.
+13. Enter phone number.
+14. Enter address details.
+15. Click “Continue”.
+16. Enter billing information.
+17. Click “Verify and Continue”.
+18. Enter mobile number.
+19. Enter OTP received.
+20. Select support plan as Basic.
+21. Complete account creation.

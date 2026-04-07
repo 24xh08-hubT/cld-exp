@@ -1,0 +1,30 @@
+PROCEDURE
+
+1. Open web browser.
+2. Go to Google Cloud SDK official website.
+3. Download Google Cloud SDK installer.
+4. Open Downloads folder.
+5. Double click the installer file.
+6. Click “Next” in setup wizard.
+7. Select installation type.
+8. Click “Next”.
+9. Choose destination folder.
+10. Click “Next”.
+11. Select components to install.
+12. Click “Install”.
+13. Wait for installation to complete.
+14. Click “Finish”.
+15. Download Python 3.7.9.
+16. Open Python installer.
+17. Click “Install Now”.
+18. Wait for installation.
+19. Click “Close”.
+20. Open Google Cloud SDK shell.
+21. Create application folder.
+22. Create app.yaml file.
+23. Enter configuration details.
+24. Create Python file sample.py.
+25. Write simple Python program.
+26. Save both files.
+27. Run the application.
+28. Verify output.

@@ -1,0 +1,21 @@
+PROCEDURE
+
+1. Open Eclipse IDE.
+2. Create a new Java project.
+3. Add Hadoop jar files to the project.
+4. Configure build path.
+5. Create a new class wordcount.java.
+6. Import required Hadoop libraries.
+7. Write Mapper class.
+8. Write Reducer class.
+9. Define main method.
+10. Configure job settings.
+11. Set Mapper class.
+12. Set Reducer class.
+13. Set output key and value types.
+14. Provide input file path.
+15. Provide output folder path.
+16. Compile the program.
+17. Run the program.
+18. Wait for execution.
+19. Display output.

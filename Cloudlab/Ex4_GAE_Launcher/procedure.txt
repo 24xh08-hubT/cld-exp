@@ -1,0 +1,31 @@
+PROCEDURE
+
+1. Open web browser.
+2. Download Google App Engine software.
+3. Open Downloads folder.
+4. Double click the installer file.
+5. Click “Next” in setup wizard.
+6. Follow installation steps.
+7. Click “Finish”.
+8. Download Python 2.5.4.
+9. Open Python installer.
+10. Click “Install for all users”.
+11. Select destination folder.
+12. Click “Next”.
+13. Click “Install”.
+14. Wait for installation.
+15. Click “Finish”.
+16. Open Google App Engine Launcher.
+17. Click “File” menu.
+18. Select “Create Application”.
+19. Choose parent directory.
+20. Enter application name.
+21. Click “Create”.
+22. Create app.yaml file.
+23. Create main.py file.
+24. Write program code.
+25. Save the files.
+26. Click “Run” in launcher.
+27. Open web browser.
+28. Enter http://localhost:8080.
+29. View output.

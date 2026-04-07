@@ -1,0 +1,37 @@
+package org.cloudbus.cloudsim.examples;
+
+import org.cloudbus.cloudsim.*;
+import org.cloudbus.cloudsim.core.*;
+
+import java.util.ArrayList;
+
+public class FCFSDatacenterBroker extends DatacenterBroker {
+
+    public FCFSDatacenterBroker(String name) throws Exception {
+        super(name);
+    }
+
+    // FCFS Scheduling
+    public void scheduleTaskstoVms() {
+        ArrayList<Cloudlet> list = new ArrayList<Cloudlet>();
+
+        for (Cloudlet cloudlet : getCloudletSubmittedList()) {
+            list.add(cloudlet);
+        }
+
+        setCloudletReceivedList(list);
+    }
+
+    @Override
+    protected void processCloudletReturn(SimEvent ev) {
+        Cloudlet cloudlet = (Cloudlet) ev.getData();
+
+        getCloudletReceivedList().add(cloudlet);
+
+        cloudletsSubmitted--;
+
+        if (getCloudletList().size() == 0 && cloudletsSubmitted == 0) {
+            scheduleTaskstoVms();
+        }
+    }
+}

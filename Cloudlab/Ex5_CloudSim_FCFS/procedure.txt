@@ -1,0 +1,24 @@
+PROCEDURE
+
+1. Open Eclipse IDE.
+2. Create a new Java project.
+3. Add CloudSim jar files to the project.
+4. Create a package org.cloudbus.cloudsim.examples.
+5. Create FCFS_Scheduler.java file.
+6. Create FCFSDatacenterBroker.java file.
+7. Create Constants.java file.
+8. Import required CloudSim libraries.
+9. Define number of users.
+10. Initialize CloudSim.
+11. Create datacenters.
+12. Create broker.
+13. Create virtual machines (VMs).
+14. Create cloudlets (tasks).
+15. Submit VMs to broker.
+16. Submit cloudlets to broker.
+17. Apply FCFS scheduling logic.
+18. Start simulation using CloudSim.startSimulation().
+19. Wait for execution to complete.
+20. Stop simulation using CloudSim.stopSimulation().
+21. Print cloudlet execution results.
+22. Display output parameters.

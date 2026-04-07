@@ -1,0 +1,23 @@
+// (short version for exam)
+import org.cloudbus.cloudsim.*;
+import org.cloudbus.cloudsim.core.CloudSim;
+import java.util.*;
+
+public class FCFS_Scheduler {
+
+    public static void main(String[] args) {
+
+        int num_user = 1;
+        Calendar calendar = Calendar.getInstance();
+        boolean trace_flag = false;
+
+        CloudSim.init(num_user, calendar, trace_flag);
+
+        System.out.println("FCFS Scheduling Simulation Started");
+
+        CloudSim.startSimulation();
+        CloudSim.stopSimulation();
+
+        System.out.println("Simulation Completed");
+    }
+}

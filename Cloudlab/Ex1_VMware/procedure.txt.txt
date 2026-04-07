@@ -1,0 +1,55 @@
+PROCEDURE
+
+1. Open the web browser.
+2. Go to VMware official website.
+3. Download VMware Workstation Player for Windows.
+4. Go to Downloads folder.
+5. Double click the VMware setup file.
+6. Click “Next” in installation wizard.
+7. Accept the license agreement.
+8. Click “Next” to continue.
+9. Choose installation location.
+10. Click “Next”.
+11. Select user experience settings.
+12. Click “Next”.
+13. Choose shortcuts options.
+14. Click “Next”.
+15. Click “Install” button.
+16. Wait for installation to complete.
+17. Click “Finish” to close wizard.
+18. Open VMware Workstation Player.
+19. Click “Create New Virtual Machine”.
+20. Select “I will install OS later”.
+21. Click “Next”.
+22. Select operating system type as Microsoft Windows.
+23. Select version as Windows 10 x64.
+24. Click “Next”.
+25. Enter virtual machine name.
+26. Choose location to save VM.
+27. Click “Next”.
+28. Specify disk size as 60 GB.
+29. Select “Store virtual disk as multiple files”.
+30. Click “Next”.
+31. Click “Finish” to create VM.
+32. Go to VM settings.
+33. Select CD/DVD option.
+34. Choose “Use ISO image file”.
+35. Click “Browse”.
+36. Select Windows 10 ISO file.
+37. Click “Open”.
+38. Start the virtual machine.
+39. Press any key to boot from ISO.
+40. Select language settings.
+41. Click “Next”.
+42. Click “Install Now”.
+43. Select “Custom Installation”.
+44. Click “New” to create partition.
+45. Click “Apply”.
+46. Click “OK”.
+47. Select partition and click “Next”.
+48. Wait for Windows installation.
+49. Choose keyboard layout.
+50. Enter user name.
+51. Set password.
+52. Complete Windows setup.
+53. Desktop screen appears successfully.

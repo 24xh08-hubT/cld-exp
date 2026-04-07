@@ -1,0 +1,38 @@
+PROCEDURE
+
+1. Open web browser.
+2. Download Java JDK from official website.
+3. Run the Java installer.
+4. Click “Next” in setup wizard.
+5. Complete Java installation.
+6. Open Environment Variables.
+7. Create JAVA_HOME variable.
+8. Set path to Java installation folder.
+9. Download Hadoop from Apache website.
+10. Extract Hadoop files to a folder.
+11. Open Environment Variables again.
+12. Create HADOOP_HOME variable.
+13. Set path to Hadoop folder.
+14. Edit Path variable.
+15. Add %HADOOP_HOME%\bin to Path.
+16. Open Hadoop folder.
+17. Create data folder.
+18. Open data folder.
+19. Create namenode folder.
+20. Create datanode folder.
+21. Go to etc/hadoop directory.
+22. Open core-site.xml file.
+23. Add configuration details.
+24. Save the file.
+25. Open hdfs-site.xml file.
+26. Add configuration details.
+27. Save the file.
+28. Open mapred-site.xml file.
+29. Add configuration details.
+30. Save the file.
+31. Open yarn-site.xml file.
+32. Add configuration details.
+33. Save the file.
+34. Open hadoop-env.cmd file.
+35. Verify JAVA_HOME path.
+36. Save the file.
